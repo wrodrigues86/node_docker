@@ -1,0 +1,9 @@
+{
+  "name": "projeto-nodejs-docker",
+  "version": "1.0.0",
+  "description": "Exemplo simples de aplicativo Node.js para Docker",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
